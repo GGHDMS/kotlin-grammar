@@ -1,3 +1,5 @@
+package basic
+
 fun getNullStr(): String? = null
 
 fun getLengthIfNotNull(str: String?) = str?.length ?: 0

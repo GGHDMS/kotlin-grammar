@@ -1,3 +1,5 @@
+package basic
+
 class Coffee constructor/*생략 가능*/(
     var name: String = "",
     var price: Int = 0,

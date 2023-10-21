@@ -1,3 +1,5 @@
+package basic
+
 var x = 5
 
 fun main() {
